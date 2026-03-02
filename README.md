@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm [Your Name] 👋</h1>
+<h1 align="center">Hey, I'm Laamri Sayf eddine 👋</h1>
 <h3 align="center">Cybersecurity Engineer | Aspiring DevSecOps Engineer</h3>
 
 <p align="center">
@@ -80,10 +80,10 @@ Monitor →  Runtime protection, log analysis, alerting
 ## Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/sayf-eddine-laamiri-834a57290/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:laamrisayf1337@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
