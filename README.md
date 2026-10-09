@@ -1,95 +1,60 @@
-<h1 align="center">Hey, I'm Laamri Sayf eddine 👋</h1>
-<h3 align="center">Cybersecurity Engineer | Aspiring DevSecOps Engineer</h3>
-
+<h1 align="center">Sayf Eddine Laamri</h1>
+<p align="center"><strong>Cybersecurity Engineering Student · SOC & Incident Response · DevSecOps</strong><br/>ENSA Marrakech, Morocco</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7A8&center=true&vCenter=true&width=500&lines=Cybersecurity+Engineer;Penetration+Tester;Shifting+Left+with+DevSecOps;Breaking+Things+to+Build+Them+Safer" alt="Typing SVG" />
+<a href="https://laamri-sayf-eddine.vercel.app">Portfolio</a> ·
+<a href="https://laamri-sayf-eddine.vercel.app/sayf-eddine-laamri-cv.pdf">CV</a> ·
+<a href="https://www.linkedin.com/in/sayf-eddine-laamri/">LinkedIn</a> ·
+<a href="mailto:laamrisayf1337@gmail.com">Email</a>
 </p>
 
----
+## I build security systems that detect, decide, and respond.
 
-## About Me
+I study **Cyber Defense & Embedded Telecommunications Systems at ENSA Marrakech**. My work connects security telemetry, incident response, AI-assisted decision support, and infrastructure automation.
 
-- Cybersecurity engineer with a focus on **penetration testing** and **secure software delivery**
-- Actively transitioning into **DevSecOps** — shifting security left in the SDLC
-- Passionate about integrating security into every phase of CI/CD pipelines
-- Currently learning: **container security**, **IaC hardening**, and **automated security testing**
+I have completed cybersecurity internships at **Capgemini Engineering** and **Agence du Bassin Hydraulique du Tensift (ABHT)**, working on automotive malware-response decision workflows and Suricata–Wazuh detection.
 
----
+**Seeking a final-year cybersecurity internship (PFE) from February 2027**, focused on SOC engineering, detection, incident response, or DevSecOps.
 
-## Skills & Domains
+## Selected projects
+Start here for the clearest view of my work.
 
-### Security
-![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-red?style=flat-square&logo=kalilinux&logoColor=white)
-![Web Application Security](https://img.shields.io/badge/Web_App_Security-orange?style=flat-square&logo=owasp&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-blue?style=flat-square&logo=wireshark&logoColor=white)
-![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-purple?style=flat-square&logo=hackthebox&logoColor=white)
+| Project | What it demonstrates | Core technologies |
+| --- | --- | --- |
+| **[IVI Guard](https://github.com/laamri/IVI-Guard)** | Automotive malware decision-support prototype: 13 simulated scenarios, constrained recommendations, deterministic validation, and evaluation. Recommendations are reviewed; this prototype does not execute vehicle countermeasures. | n8n, Node.js, Docker, LLM integration |
+| **[Suricata + Wazuh SOC Lab](https://github.com/laamri/projet_stage_observation)** | IDS/IPS integration, security-event correlation, threat-intelligence enrichment, and active-response scripts from my ABHT internship project. Includes documentation and demonstrations. | Suricata, Wazuh, Python, Bash, AbuseIPDB, VirusTotal |
+| **[Next-Gen DevSecOps](https://github.com/laamri/next-gen_devsecops)** | Team-built platform converting natural-language requirements into validated CI/CD and infrastructure artifacts, with security scanning and Terraform planning. Co-developed with Bagy Oussama. | FastAPI, React, Jenkins, Terraform, AWS, Trivy |
+| **[MobileSec](https://github.com/laamri/MobileSec)** | Collaborative Android security analysis covering authentication, sessions, static analysis, API testing, and structured reports. See the repository for upstream attribution and evaluation details. | Python, JADX, mitmproxy, Docker, OWASP MASVS |
+| **[Cyber Chaos Arena](https://github.com/laamri/Cyber-Chaos-Arena)** | Public subset of a team SOC lab: containerized honeypots, runtime detection, log collection, and observability. | Docker Compose, Falco, Cowrie, ELK, Grafana |
+| **[PenAut](https://github.com/laamri/PenAut)** | Collaborative Python toolkit for reconnaissance and common penetration-testing workflows. | Python, Nmap, Shodan |
 
-### DevSecOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
+## Technical capabilities
 
-### Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+| Area | Tools and skills |
+| --- | --- |
+| **SOC & detection** | Wazuh, Suricata, Falco, ELK Stack, alert correlation, file-integrity monitoring |
+| **Response & automation** | Python, Bash, PowerShell, n8n, threat-intelligence APIs, validated AI recommendations |
+| **Cloud & DevSecOps** | Docker, Kubernetes, Terraform, Ansible, Jenkins, AWS, Trivy |
+| **Security assessment** | Burp Suite, Nmap, Metasploit, Wireshark, Android authentication and session analysis |
+| **Forensics & reverse engineering** | Autopsy, Volatility, Ghidra, JADX |
+| **Development & data** | Python, C, Java, JavaScript, SQL, FastAPI, React, Kafka, Spark |
+| **Infrastructure & monitoring** | Grafana, Prometheus, Zabbix, VMware, Proxmox, VLANs, VPNs |
 
----
+## Experience
 
-## DevSecOps Philosophy
+**Capgemini Engineering · Cybersecurity Intern · Jul–Aug 2026 · Casablanca**  
+Designed an intelligent workflow for simulated malware scenarios in automotive infotainment systems, combining contextualization, decision support, validation, and evaluation.
 
-```text
-Plan    →  Threat modeling, security requirements
-Code    →  Secure coding, pre-commit hooks, secret scanning
-Build   →  SAST, SCA, dependency checks
-Test    →  DAST, container scanning, IAST
-Deploy  →  IaC security, signed artifacts, least privilege
-Monitor →  Runtime protection, log analysis, alerting
-```
+**ABHT · Information Security Intern · Jul–Aug 2025 · Marrakech**  
+Deployed Suricata and Wazuh for intrusion detection and security monitoring; contributed to infrastructure security audits and risk analysis.
 
----
+## Continuous practice
 
-## CTF & Learning Platforms
+- Member of **0ops**, a CTF team; CV-listed results include **1st at AISEC International** and **2nd at Knights of the Fury and GCDxN7**.
+- Active in the **GCDSTE cybersecurity club** at ENSA Marrakech.
+- Training includes **Cisco Network Basics**, **TryHackMe**, and **Practical IoT Security & Penetration Testing**.
+- [TryHackMe profile](https://tryhackme.com/p/l.sayfeddine) · [Android security labs](https://github.com/laamri/Securite_des_applications_mobiles)
 
-<p>
-  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME">
-    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" />
-  </a>
-  <a href="https://app.hackthebox.com/profile/YOUR_HTB_ID">
-    <img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" />
-  </a>
-</p>
+## Let's connect
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" height="160"/>
-</p>
-
----
-
-## Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/sayf-eddine-laamiri-834a57290/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:laamrisayf1337@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=00f7a8" alt="Profile views"/>
-</p>
+For PFE opportunities or technical collaboration: **[laamrisayf1337@gmail.com](mailto:laamrisayf1337@gmail.com)**.  
+Explore project demonstrations and reports in my **[portfolio](https://laamri-sayf-eddine.vercel.app)**.
